@@ -1,0 +1,10 @@
+#console {
+    background-color: black;
+    color: white;
+    min-height: 300px;
+  }
+  
+  textarea
+  {
+    width:100%;
+  }
